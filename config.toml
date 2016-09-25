@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://bluesmpp.com/"
 languageCode = "en-us"
 title = "Blue SMPP - Fast and Reliable SMS via SMPP"
 theme = "hugo-material-docs"
