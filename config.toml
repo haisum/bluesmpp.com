@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Material Docs"
+title = "Blue SMPP - Fast and Reliable SMS via SMPP"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
@@ -9,15 +9,15 @@ googleAnalytics = ""
 
 [params]
 	# General information
-	author = "Digitalcraftsman"
-	description = "A material design theme for documentations."
-	copyright = "Released under the MIT license"
+	author = "Haisum Bhatti"
+	description = "Documentation and Feature overview of Blue SMPP."
+	copyright = "All rights reserved to Haisum."
 
 	# Repository
-	provider = "GitHub"
-	repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
+	# provider = "GitHub"
+	# repo_url = "https://github.com/digitalcraftsman/hugo-material-docs"
 
-	version = "1.0.0"
+	version = ""
 	logo = "images/logo.png"
 	favicon = ""
 
@@ -40,29 +40,29 @@ googleAnalytics = ""
 
 
 [social]
-	twitter = ""
-	github  = "digitalcraftsman"
-	email   = "hello@email.com"
+	twitter = "haisum"
+	github  = "haisum"
+	email   = "haisumbhatti@gmail.com"
 
 
 [[menu.main]]
-	name   = "Material"
+	name   = "Blue SMPP"
 	url    = "/"
 	weight = 0
 
 [[menu.main]]
-	name   = "Getting started"
-	url    = "getting-started/"
+	name   = "Features"
+	url    = "features/"
 	weight = 10
 
 [[menu.main]]
-	name   = "Adding content"
-	url    = "adding-content/"
+	name   = "Demo"
+	url    = "demo/"
 	weight = 20
 
 [[menu.main]]
-	name   = "Roadmap"
-	url    = "roadmap/"
+	name   = "Usage"
+	url    = "usage/"
 	weight = 30
 
 [[menu.main]]
@@ -70,6 +70,15 @@ googleAnalytics = ""
 	url    = "license/"
 	weight = 40
 
+[[menu.main]]
+	name   = "Contact Us"
+	url    = "contact/"
+	weight = 50
+
+[[menu.main]]
+	name   = "Purchase"
+	url    = "purchase/"
+	weight = 60
 
 [blackfriday]
 	smartypants	= true
