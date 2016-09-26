@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Blue SMPP - Fast and Reliable SMS via SMPP"
+title = "Blue SMPP"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
