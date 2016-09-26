@@ -1,6 +1,6 @@
 ---
 date: 2016-03-08T21:07:13+01:00
-title: Material for Hugo
+title: Blue SMPP - Fast and reliable sms via SMPP
 type: index
 weight: 0
 ---

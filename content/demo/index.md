@@ -1,7 +1,7 @@
 ---
 date: 2016-03-09T00:11:02+01:00
 title: Getting started
-weight: 10
+weight: 20
 ---
 
 ## Installation
@@ -34,9 +34,9 @@ git clone git@github.com:digitalcraftsman/hugo-material-docs.git
 
 ## Setup
 
-Next, take a look in the `exampleSite` folder at `themes/hugo-material-docs/`. This directory contains an example config file and the content that you are currently reading. It serves as an example setup for your documentation. 
+Next, take a look in the `exampleSite` folder at `themes/hugo-material-docs/`. This directory contains an example config file and the content that you are currently reading. It serves as an example setup for your documentation.
 
-Copy at least the `config.toml` in the root directory of your website. Overwrite the existing config file if necessary. 
+Copy at least the `config.toml` in the root directory of your website. Overwrite the existing config file if necessary.
 
 Hugo includes a development server, so you can view your changes as you go -
 very handy. Spin it up with the following command:
