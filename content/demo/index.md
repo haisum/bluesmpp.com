@@ -10,7 +10,7 @@ Demo app can be seen at [https://bluesmpp.com:8443](https://bluesmpp.com:8443). 
 
 ## Demo Limitations
 
-Sms sending in demo is simulated in demo and in real usage, we would use actual operator SMPP credentials to send messages. Adding/Editing users is restricted and modifying connection configuration is also forbidden.
+Sms sending in demo is simulated. In real usage, we would use actual operator SMPP credentials to send messages. Adding/Editing users is restricted and modifying connection configuration is also forbidden.
 
 ## Grafana stats
 

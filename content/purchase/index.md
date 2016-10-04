@@ -4,4 +4,4 @@ title: Purchase
 weight: 60
 ---
 
-hello
+Send an email to [haisumbhatti@gmail.com](mailto:haisumbhatti@gmail.com) with your requirements to get a quotation.
