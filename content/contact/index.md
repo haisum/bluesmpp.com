@@ -4,4 +4,4 @@ title: Contact Us
 weight: 50
 ---
 
-hello world
+Send an email to haisumbhatti@gmail.com to ask any questions about this solution.
