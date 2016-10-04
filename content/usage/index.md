@@ -4,8 +4,4 @@ title: Usage
 weight: 30
 ---
 
-hello
-
-## Heading 1
-
-hello there
+Coming soon
